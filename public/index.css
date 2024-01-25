@@ -1,0 +1,9 @@
+.post{
+    margin-bottom: 20px;
+    width: 1000px;
+    box-shadow: 2px 2px 10px white;
+}
+
+.post:hover{
+    box-shadow: 2px 2px 20px white;
+}
